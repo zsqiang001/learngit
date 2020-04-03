@@ -4,4 +4,4 @@ Git is a free software distributed under the GPL.
 
 Git has a mutable index called state.
 
-Git tracks changes.
+Git tracks changes of files.
